@@ -1,4 +1,12 @@
 
+# 全景图
+
+European AI Landscape:<br>
+http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape.pdf <br>
+
+Israel's AI landscape:
+![Israel's AI landscape](https://cdn-images-1.medium.com/max/2000/1*4k2bACH0ZNBy6CKwbSpxQA.png)<br>
+
 # 业内动态
 
 2018.8.30 Google开源TensorFlow强化学习框架！
