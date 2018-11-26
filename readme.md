@@ -7,6 +7,10 @@ http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape
 Israel's AI landscape:
 ![Israel's AI landscape](https://cdn-images-1.medium.com/max/2000/1*4k2bACH0ZNBy6CKwbSpxQA.png)<br>
 
+！[Machine Learning and AI Market Landscape, 2016](https://i1.wp.com/analyticsweek.com/wp-content/uploads/2017/01/4e1d80ad-c007-4baa-99a9-915c936a5ef6-original.png?ssl=1)<br>
+Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, but overall a good list for looking through holistic Data Analytics Artificial Intelligence and Machine Learning landscape.<br>
+
+
 # 业内动态
 
 2018.8.30 Google开源TensorFlow强化学习框架！
