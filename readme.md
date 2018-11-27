@@ -27,7 +27,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 
 
 2018.8.30 [Google开源TensorFlow强化学习框架！](https://github.com/google/dopamine)<br> 
-
+2018.7 [AI移动智能终端蓝皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201807/P020180718595304832512.pdf)<br>
 2018.5.10 [《2018中国人工智能创新成长企业50强》榜单发布](http://www.ctoutiao.com/674770.html)<br>
 
 
