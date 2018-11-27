@@ -1,8 +1,6 @@
 
 # 全景图
-在2018年9月17日于上海开幕的“2018世界人工智能大会”上，由Gartner和信通院联合编制的“2018世界人工智能产业发展蓝皮书”在沪发布。<br>
-[2018世界人工智能蓝皮书：看中国到底有多强！](https://yq.aliyun.com/news/323789)<br>
-https://www.useit.com.cn/thread-20480-1-1.html 
+
 
 European AI Landscape:<br>
 http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape.pdf <br>
@@ -22,6 +20,12 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 
 
 # 业内动态
+
+2018.9.17:<br>
+在2018年9月17日于上海开幕的“2018世界人工智能大会”上，由Gartner和信通院联合编制的“2018世界人工智能产业发展蓝皮书”在沪发布。<br>
+[2018世界人工智能蓝皮书：看中国到底有多强！](https://yq.aliyun.com/news/323789)<br>
+https://www.useit.com.cn/thread-20480-1-1.html 
+http://www.databanker.cn/policy/233743.html
 
 2018.8.30 [Google开源TensorFlow强化学习框架！](https://github.com/google/dopamine)<br> 
 
