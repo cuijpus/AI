@@ -1,6 +1,7 @@
 
 # 全景图
 
+[全球人工智能产业地图](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201804/P020180413313451066778.pdf#page=1&zoom=70,410,1529)<br>
 
 European AI Landscape:<br>
 http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape.pdf <br>
@@ -22,6 +23,7 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 # 业内动态
 
 2018.9.17 [2018世界人工智能蓝皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
+2018.9 [人工智能发展白皮书-技术架构篇（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180906443463663989.pdf)<br>
 2018.9 [电信网络人工智能应用白皮书（2018 年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180929348657095647.pdf)<br>
 2018.8.30 [Google开源TensorFlow强化学习框架！](https://github.com/google/dopamine)<br> 
 2018.7 [AI移动智能终端蓝皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201807/P020180718595304832512.pdf)<br>
