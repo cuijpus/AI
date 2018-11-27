@@ -21,11 +21,8 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 
 # 业内动态
 
-2018.9.17:<br>
-在2018年9月17日于上海开幕的“2018世界人工智能大会”上，由Gartner和信通院联合编制的“2018世界人工智能产业发展蓝皮书”在沪发布。<br>
-[2018世界人工智能蓝皮书：看中国到底有多强！](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
-
-
+2018.9.17 [2018世界人工智能蓝皮书](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180918696199759142.pdf)<br>
+2018.9 [电信网络人工智能应用白皮书（2018 年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201809/P020180929348657095647.pdf)<br>
 2018.8.30 [Google开源TensorFlow强化学习框架！](https://github.com/google/dopamine)<br> 
 2018.7 [AI移动智能终端蓝皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/ztbg/201807/P020180718595304832512.pdf)<br>
 2018.5.10 [《2018中国人工智能创新成长企业50强》榜单发布](http://www.ctoutiao.com/674770.html)<br>
