@@ -1,5 +1,8 @@
 
 # 全景图
+在2018年9月17日于上海开幕的“2018世界人工智能大会”上，由Gartner和信通院联合编制的“2018世界人工智能产业发展蓝皮书”在沪发布。<br>
+[2018世界人工智能蓝皮书：看中国到底有多强！](https://yq.aliyun.com/news/323789)<br>
+https://www.useit.com.cn/thread-20480-1-1.html 
 
 European AI Landscape:<br>
 http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape.pdf <br>
