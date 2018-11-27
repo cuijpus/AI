@@ -29,9 +29,8 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 
 
 # 开源项目
-
+[Mobile AI Compute Engine (MACE) 是一个专为移动端异构计算平台优化的神经网络计算框架 ](https://gitee.com/mirrors/MACE)<br>
 [15 个开源的顶级人工智能工具](http://www.iteye.com/news/31877)<br>
-
 [那些有趣又实用的开源人工智能项目Top 10](http://ai.51cto.com/art/201809/582996.htm)<br>
 
 
