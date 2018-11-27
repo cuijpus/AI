@@ -15,6 +15,8 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 2017.12.20 [浙江省人民政府印发《浙江省新一代人工智能发展规划》](https://baijiahao.baidu.com/s?id=1587313689131375325&wfr=spider&for=pc)<br>
 2017.12.14 [工业和信息化部14日发布《促进新一代人工智能产业发展三年行动计划(2018-2020)》](http://www.qianjia.com/html/2017-12/15_281000.html)<br>
 2017.7.8 国务院发布[新一代人工智能发展规划](https://baike.baidu.com/item/%E6%96%B0%E4%B8%80%E4%BB%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92/22036716?fr=aladdin)<br>
+![中国AI政策](http://yqfile.alicdn.com/th/323789/9a5f3eb6ff9bfcf3e79010918c3ec6c2.jpg)<br>
+
 
 # 业内动态
 
