@@ -39,3 +39,4 @@ Bloomberg BETA rolled out Machine Learning Landspace. It is missing some names, 
 # 学习资源
 
 # Tools
+[这可能是人工智能、机器学习和大数据领域覆盖最全的一份速查表](http://www.raincent.com/content-10-12752-1.html)<br>
